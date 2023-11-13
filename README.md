@@ -1,4 +1,5 @@
-# Hop v1 Monorepo
+# Hop v1 Monorepo.
+
 
 > The [Hop Protocol](https://hop.exchange/) v1 monorepo
 
